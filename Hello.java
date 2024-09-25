@@ -6,5 +6,6 @@ public class Hello{
 
     System.out.print("Test");
     System.out.println("Testing Again");
+    System.out.println("Last Test");
   }
 }
